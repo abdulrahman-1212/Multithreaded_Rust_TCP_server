@@ -121,3 +121,7 @@ main thread ──── waits for ENTER, then sets the shutdown flag
 - Structured logging with `tracing` and configuration via `clap` or environment variables
 - TLS with `rustls`
 - Rewrite on `tokio` for large numbers of connections
+
+# Credits
+Inspired by: Rust للغلابة by Eng. Ahmed Farghal (https://github.com/AhmedSoliman/rust-for-everyone)
+
